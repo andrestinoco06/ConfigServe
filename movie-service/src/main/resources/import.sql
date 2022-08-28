@@ -1,0 +1,16 @@
+INSERT INTO movies (name, genre, url_stream) VALUES ('Mission: Impossible', 'action', 'stremio');
+INSERT INTO movies (name, genre, url_stream) VALUES ('Face/Off', 'action', 'stremio');
+INSERT INTO movies (name, genre, url_stream) VALUES ('50 First Dates', 'romantic comedy', 'stremio');
+INSERT INTO movies (name, genre, url_stream) VALUES ('Imagine Me and You', 'romantic comedy', 'stremio');
+INSERT INTO movies (name, genre, url_stream) VALUES ('The Fault in Our Stars', 'romantic comedy', 'stremio');
+INSERT INTO movies (name, genre, url_stream) VALUES ('Frozen', 'animation', 'stremio');
+INSERT INTO movies (name, genre, url_stream) VALUES ('Ferdinand', 'animation', 'stremio');
+INSERT INTO movies (name, genre, url_stream) VALUES ('Inside Out', 'animation', 'stremio');
+INSERT INTO movies (name, genre, url_stream) VALUES ('Up', 'animation', 'stremio');
+INSERT INTO movies (name, genre, url_stream) VALUES ('Abominable', 'animation', 'stremio');
+INSERT INTO movies (name, genre, url_stream) VALUES ('Mean Girls', 'comedy', 'stremio');
+INSERT INTO movies (name, genre, url_stream) VALUES ('What Happens in Vegas', 'comedy', 'stremio');
+INSERT INTO movies (name, genre, url_stream) VALUES ('The Sweetest Thing', 'comedy', 'stremio');
+INSERT INTO movies (name, genre, url_stream) VALUES ('Die Hard', 'action', 'stremio');
+INSERT INTO movies (name, genre, url_stream) VALUES ('Top Gun', 'action', 'stremio');
+INSERT INTO movies (name, genre, url_stream) VALUES ('Taken', 'action', 'stremio');
